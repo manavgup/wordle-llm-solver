@@ -1,0 +1,12 @@
+.env
+.pytest_cache/
+.vscode/
+images/
+latest_logs/
+modules/
+venv/
+backup/
+CACHEDIR.TAG
+.vscode/
+archived_logs/
+__pycache__/
